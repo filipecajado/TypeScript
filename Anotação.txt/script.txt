@@ -1,0 +1,9 @@
+npm i -g typescript
+
+tsc -v
+
+tsc --init
+
+tsc
+
+tsc -w
